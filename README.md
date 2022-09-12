@@ -29,6 +29,7 @@ The purpose of this assignment is to practice more advanced HTML and CSS, as wel
          - Add a centered header: "Data Types". 
          - For each dataset you have, add a left-aligned header with the name of the dataset (UFO, Airports, Google-Web). Under the header, add an unordered list that lists the datatype of the columns and rows in the dataset. For any datasets that include attributes, list the attributes and their types as sub points in the list. 
    - Add a div with the id "task-abstraction". Inside of this div: 
+      - Add a centered header: "Task Abstraction". 
       - Use [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) css to make two columns. Inside of each colum:
          - Add one of the images in the img folder of your cloned repo. Make the image centered in the column. 
          - Under each image, identify the high, medium, and low level actions of the visualization shown in the image, and the target(s) of those actions. This text should be left-aligned in the columns and in a font color of your choosing (but make sure it is readable).  
